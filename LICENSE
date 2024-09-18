@@ -1,0 +1,43 @@
+LICENCIA PÚBLICA GENERAL DE GNU
+
+Versión 2, junio de 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
+
+A cualquiera se le permite copiar y distribuir copias de este documento de licencia, pero no se permite modificarlo.
+
+Introducción
+
+Las licencias de la mayoría del software están diseñadas para quitarte la libertad de compartir y modificarlo. Por el contrario, la Licencia Pública General de GNU está pensada para garantizar tu libertad de compartir y modificar software libre, para asegurarse de que el software sea libre para todos sus usuarios. Esta Licencia Pública General se aplica a la mayoría del software de la Free Software Foundation y a cualquier otro programa cuyo autor se comprometa a usarla. (Otros programas de la Free Software Foundation están cubiertos por la Licencia Pública General de GNU para Bibliotecas).
+
+Cuando nos referimos a software libre, estamos hablando de libertad, no de precio. Nuestras Licencias Públicas Generales están diseñadas para asegurarte que tienes la libertad de distribuir copias de software libre (y cobrar por ese servicio si lo deseas), que recibes el código fuente o puedes obtenerlo si lo quieres, que puedes modificar el software o usar partes de él en nuevos programas libres, y que sabes que puedes hacer estas cosas.
+
+Para proteger tus derechos, necesitamos evitar que otros te nieguen estos derechos o te pidan que renuncies a los derechos. Por lo tanto, tienes ciertas responsabilidades si distribuyes copias del software, o si lo modificas: responsabilidades para asegurar que los demás también tengan estas libertades.
+
+Por ejemplo, si distribuyes copias de dicho programa, ya sea gratis o por una tarifa, debes dar a los receptores todos los derechos que tienes. Debes asegurarte de que ellos, también, reciban o puedan obtener el código fuente. Y debes mostrarles estos términos para que conozcan sus derechos.
+
+Protección de tus derechos y de los de los demás
+
+Cuando hablas de software libre, estás hablando de libertad. Es importante tener en cuenta que no estamos refiriéndonos a la gratuidad del software, sino a la libertad que los usuarios tienen para usar, estudiar, modificar y distribuir el software de acuerdo con los términos establecidos.
+
+Términos y condiciones para copia, distribución y modificación
+
+0. Esta licencia se aplica a cualquier programa o trabajo, ya sea parte del código o completo, que contenga un aviso colocado por el titular del derecho de autor que indique que se distribuye bajo los términos de la Licencia Pública General de GNU. El "Programa", a continuación, se refiere a cualquier programa o trabajo cubierto por esta Licencia.
+
+1. Puedes copiar y distribuir copias literales del código fuente del Programa tal como lo recibiste, en cualquier medio, siempre que incluyas de manera destacada en cada copia un aviso de derechos de autor adecuado y un descargo de responsabilidad de garantía; conserves intactos todos los avisos que hacen referencia a esta Licencia y a la ausencia de cualquier garantía; y des a los demás receptores del Programa una copia de esta Licencia junto con el Programa.
+
+2. Puedes modificar tu copia o copias del Programa o cualquier parte de él, formando así un trabajo basado en el Programa, y copiar y distribuir dichas modificaciones o trabajo bajo los términos de la Sección 1 anterior, siempre que también cumplas con todas estas condiciones: 
+   a) Debes hacer que el código fuente modificado esté disponible bajo los términos de esta Licencia. 
+   b) Debes mantener los avisos de derechos de autor originales. 
+   c) Debes incluir un aviso claro de que has modificado el archivo y la fecha de dicha modificación.
+
+3. Tienes permiso para cobrar una tarifa por el acto físico de transferir una copia, y opcionalmente cobrar una tarifa por ofrecer garantía.
+
+4. Si redistribuyes el Programa, debes ofrecer a los destinatarios los mismos derechos que tienes bajo esta licencia.
+
+5. Esta licencia no implica ningún tipo de garantía. El programa se distribuye "tal cual", sin garantía de ningún tipo.
+
+Versión en español proporcionada para facilitar su comprensión. La versión original en inglés prevalecerá en caso de cualquier discrepancia.
+
+Para obtener más información sobre los derechos de esta licencia, visita: <http://www.gnu.org/licenses/>.
