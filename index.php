@@ -3,7 +3,7 @@
 /**
  * Plugin Name: CRUD de tabla categorías usando la clase WPDB
  * Plugin URI: https://stackcodelab.com/donaciones.php
- * Description: Este plugin permite gestionar categorías dinámicamente en tu sitio WordPress usando la clase WPDB. Proporciona una interfaz de administración simple y eficaz para crear, leer, actualizar y eliminar categorías sin recargar la página, utilizando AJAX y jQuery.
+ * Description: Este plugin permite gestionar categorías dinámicamente en tu sitio WordPress usando la clase WPDB. Proporciona una interfaz de administración simple y eficaz para crear, leer, actualizar y eliminar categorías sin recargar la página. [categoria_crud_shortcode]
  * Version: 1.0.0
  * Author: StackCodeLab
  * Author URI: https://stackcodelab.com
